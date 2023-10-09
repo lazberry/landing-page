@@ -90,6 +90,17 @@ body {
     padding-right: 2px;
 }
 
+.gimg {
+    border: #3882f6;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 3px;
+    box-shadow: 10px 10px #E5E7EB;
+    width: 130px;
+    height: 130px;
+    margin-bottom: 10px;
+}
+
 .gallerytext {
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
