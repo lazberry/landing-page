@@ -123,11 +123,11 @@ body {
     justify-content: center;
     margin: 0 auto;
     max-width: 630px;
-    padding-top: 55px;
+    padding-top: 60px;
 }
 
 .quotetext {
-    font-size: 32px;
+    font-size: 30px;
     color: #1f2937;
     display: flex;
     max-width: 650px;
